@@ -35,8 +35,7 @@ The **Eye Aspect Ratio (EAR)** is used to measure the openness of the driver’s
 ### 3. Yawning Frequency (Mouth Aspect Ratio - MAR)
 The **Mouth Aspect Ratio (MAR)** is calculated to detect yawning by measuring the vertical and horizontal distances of the mouth. The frequency of yawns is used as another metric to assess fatigue. Frequent yawning can signal driver drowsiness.
 
-
-![Picture6](https://github.com/user-attachments/assets/16927678-5f27-4a1a-8ed7-e45d8984de5b) ![Picture5](https://github.com/user-attachments/assets/155fe2a6-4cdd-444e-bf3a-900bc0d6b6b1) ![Picture4](https://github.com/user-attachments/assets/8291f3e1-0308-4df8-b745-9f3320a697d7)    
+ ![Picture4](https://github.com/user-attachments/assets/8291f3e1-0308-4df8-b745-9f3320a697d7) ![Picture5](https://github.com/user-attachments/assets/155fe2a6-4cdd-444e-bf3a-900bc0d6b6b1) ![Picture6](https://github.com/user-attachments/assets/16927678-5f27-4a1a-8ed7-e45d8984de5b)
 
 
 
